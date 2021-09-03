@@ -2,7 +2,6 @@
 pkgname=mingw-w64-ffmpeg-minimal
 pkgver=7.0.1
 pkgrel=1
-epoch=1
 pkgdesc="Complete solution to record, convert and stream audio and video (mingw-w64)"
 arch=('any')
 url="http://ffmpeg.org/"
